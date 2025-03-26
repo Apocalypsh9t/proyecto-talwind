@@ -1,0 +1,87 @@
+body {
+    background-image: url(https://i.ytimg.com/vi/HMTKMWHLbdQ/maxresdefault.jpg);
+    text-align: center;
+}
+
+.header2 {
+    font-family: 'Georgia', serif;
+    font-size: 30px;
+    color: aliceblue;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+
+.form {
+    text-align: center;
+}
+
+.texto1 {
+    position: relative;
+    bottom: 50px;
+}
+
+.texto2 {
+    position: relative;
+    bottom: 71px;
+    left: 55%;
+}
+
+.texto3 {
+    position: relative;
+    bottom: 30px;
+    left: 4px;
+}
+
+.texto4 {
+    position: relative;
+    left: 53%;
+    bottom: 50px;
+}
+.password1{
+    position: relative;
+    right:53%;
+    bottom: -50px;
+    
+}
+.button2 {
+
+    position: relative;
+    left: 25%;
+    top: 60px;
+    background-color: blue;
+    border-radius: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    border-style: none;
+
+}
+
+.button2:hover {
+    background-color: rgb(5, 5, 71);
+}
+
+.cuadro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    opacity: 80%;
+
+
+}
+
+.colorcuadro {
+    background-color: rgb(42, 46, 51);
+    padding: 90px;
+    width: 700px;
+    border-radius: 10px;
+    text-indent: -60%;
+
+
+}
